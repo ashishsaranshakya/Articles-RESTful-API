@@ -5,7 +5,7 @@ RESTful API for managing articles.
 ## Getting Started
 To use this API, follow the instructions below:
 
-- Clone the repository: `git clone https://github.com/your/repo.git`
+- Clone the repository: `git clone https://github.com/ashishsaranshakya/Articles-RESTful-API.git`
 - Install the necessary dependencies: `npm install`
 - Start the server: `node index.js`
 - Access the API at `http://localhost:3000/`
